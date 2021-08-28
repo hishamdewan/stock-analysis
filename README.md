@@ -13,17 +13,17 @@ The code is written to calculate returns and total trading volume for a dozen st
 ### Stock Performance in 2017 and 2018
 The two charts below show returns and total trading volume of a 12 renewable energy stocks in 2017 and 2018. In 2017, 11 out of 12 stocks posted positive returns. In 2018, only 2 out of 12 stocks posted positive returns.
 
-![Stock Return in 2017](/Resource/VBA_Challenge_2017_Chart.png) 
+![Stock Return in 2017](/Resources/VBA_Challenge_2017_Chart.png) 
  
-![Stock Return in 2018](/Resource/VBA_Challenge_2018_Chart.png) 
+![Stock Return in 2018](/Resources/VBA_Challenge_2018_Chart.png) 
 
 
 ### Execution times of scripts
 This code refactors existing code in Module 2 solution code to loop through all the data one time in order to collect the same information we did in past exercise. This  reduced the amount of time it would take to execute the VBA code. As can be seen in the following two charts, refactoring code reduced the time to execute significantly. 
 
-![Execution time 2017](/Resource/VBA_Challenge_2017.png)
+![Execution time 2017](/Resources/VBA_Challenge_2017.png)
  
-![Execution time 2018](/Resource/VBA_Challenge_2018.png) 
+![Execution time 2018](/Resources/VBA_Challenge_2018.png) 
 
 ## Summary
 ### What are the advantages and disadvantages of refactoring code?
